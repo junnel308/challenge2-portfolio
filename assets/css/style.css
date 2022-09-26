@@ -98,6 +98,17 @@ a:hover {
     text-align: right;
 }
 
+#avatar-image {
+    max-height: 100px;
+    float: right;
+}
+
+#avatar-image:hover {
+    max-height: 100px;
+    float: right;
+    padding: 5px;
+}
+
  .description {
     width: 70%;
     padding: 25px;
@@ -107,6 +118,14 @@ a:hover {
     font-size: 20px;
 }
 
+#subtext {
+    color: red;
+    text-decoration: none;
+}
+
+#subtext:hover {
+    color: rgb(93, 218, 218);
+}
 .image {
     position:relative;
     width: 325px;
@@ -199,14 +218,18 @@ a:hover {
     padding: 2%;
     color: rgb(231, 190, 25);
     font-size: 28px;
+    text-decoration: none;
 }
 
 .profile-links:hover {
     color: rgb(58, 58, 219);
 }
 
+#icons {
+    max-height: 40px;
+}
+
 .footer {
-    background-color: gray;
     position: relative;
     height: 75px;
     margin-top: 50px;
