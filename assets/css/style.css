@@ -1,6 +1,6 @@
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    padding: 10px;
+    padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: gray;
 }
@@ -38,7 +38,7 @@ ul li {
 }
 
 a {
-    color: rgb(255, 255, 255);
+    color: rgb(231, 190, 25);
     text-decoration-thickness: 5px;
     text-decoration-line: underline;
 }
@@ -195,3 +195,26 @@ a:hover {
     opacity: 1;
 }
 
+.profile-links {
+    padding: 2%;
+    color: rgb(231, 190, 25);
+    font-size: 28px;
+}
+
+.profile-links:hover {
+    color: rgb(58, 58, 219);
+}
+
+.footer {
+    background-color: gray;
+    position: relative;
+    height: 75px;
+    margin-top: 50px;
+    clear: both;
+    text-align: center;
+}
+.footer h3 {
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
