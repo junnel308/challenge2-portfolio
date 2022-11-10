@@ -152,7 +152,7 @@ a:hover {
 /* Class Selector */
 .image {
     position:relative;
-    width: 550px;
+    width: 99%;
     float: left;
     padding: 5px;
 }
@@ -214,9 +214,10 @@ a:hover {
 /* Class Selector */
 .image1 {
     position:relative;
-    width: 350px;
-    float: left;
-    padding: 5px;
+    display: inline-block;
+    width: 49%;
+    margin-left: 5px;
+    padding-top: 5px;
 }
 
 /* Class Selector */
