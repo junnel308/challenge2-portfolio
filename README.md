@@ -23,7 +23,7 @@ https://junnel308.github.io/challenge2-portfolio/
 
 ## Screenshots
 
-<img src="./assets/images/images/Website Screenshot.png" />
+<img src="./assets/images/images/screenshot2.png" />
 
 ## Credits
 
